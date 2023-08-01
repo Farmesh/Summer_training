@@ -1,0 +1,5 @@
+Conditional statements(control statements)
+=> if , else if , nested if , if-elif-else ladder
+
+if - syntax-:  if condition:
+                statement
